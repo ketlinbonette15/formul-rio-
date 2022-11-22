@@ -3,6 +3,12 @@
 }
 
 form label{
-   display:gray;
+   display: inline-block;
     font-size: 20px;
 }
+td{
+ background: black;
+ font-size: 20px;
+ color: white;
+}
+
